@@ -1,0 +1,5 @@
+{
+    "require": {
+        "php-jsonpatch/php-jsonpatch": "1.2.*"
+    }
+}
